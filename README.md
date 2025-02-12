@@ -2,7 +2,7 @@
 
 This is the code repository for the paper ***Elastic Robust Unlearning of Specific Knowledge in Large Language Models*.**
 
-![1](https://github.com/wuxingywa/ERU/blob/main/ERU.png)
+![1](ERU.png)
 
 ## Abstract
 
